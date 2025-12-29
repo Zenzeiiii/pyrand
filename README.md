@@ -26,7 +26,7 @@ python -m pip install dist\pyrand-x.x.x-cp3xx-cp3xx-win_amd64.whl --force-reinst
 Or build from source:
 
 ```powershell
-.\build.PS1
+.\build.ps1
 ```
 
 ---
@@ -86,7 +86,7 @@ print("Shuffled:", lst)
 ## 🔧 Build & Development
 
 ```powershell
-.\build.PS1
+.\build.ps1
 ```
 
 * Wheel gets copied to `dist/`
