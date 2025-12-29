@@ -1,0 +1,13 @@
+[build-system]
+requires = ["maturin>=1.0,<2.0"]
+build-backend = "maturin"
+
+[project]
+name = "pyrand"
+version = "0.1.0"
+description = "🚀 High-performance Python RNG powered by Rust + Rayon"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+    { name = "Soumalya Das", email = "geniussantu1983@gmail.com" }
+]

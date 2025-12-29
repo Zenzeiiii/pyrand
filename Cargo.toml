@@ -1,0 +1,13 @@
+[package]
+name = "pyrand"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+pyo3 = { version = "0.18", features = ["extension-module"] }
+rand = "0.8"
+rand_distr = "0.4"
+rayon = "1.7"
+
+[lib]
+crate-type = ["cdylib"]
